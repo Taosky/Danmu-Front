@@ -19,8 +19,6 @@
       </div>
     </div>
     <div class="footer">
-      <p>Hosted by <a href="https://pages.coding.me" style="font-weight: bold">Coding Pages</a></p>
-
       ©2017 Created by zxc.science
     </div>
 
